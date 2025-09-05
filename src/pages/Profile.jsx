@@ -14,7 +14,7 @@ import InputNama from "../components/formComponents/InputNama";
 import InputEmail from "../components/formComponents/InputEmail";
 import InputRegion from "../components/formComponents/InputRegion";
 import InputNoHp from "../components/formComponents/InputNoHp";
-import InputPassword from "../components/formComponents/inputPassword";
+import InputPassword from "./formComponents/InputPassword.jsx";
 import Button from "../components/button/Button";
 
 const Profile = () => {
